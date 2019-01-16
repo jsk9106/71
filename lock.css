@@ -1,4 +1,5 @@
 body{
-  background-image: url(../img/lock.png);
+  background-image: url(lock.png);
   background-size: cover;
+  background-repeat: no-repeat;
 }
